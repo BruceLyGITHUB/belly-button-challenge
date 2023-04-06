@@ -7,4 +7,3 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 # Drop Down Menu
 - The website provides a "Test Subject ID No." section where users can select from a drop down menu. Clicking on each test subject will display visualizations such as bar, bubbles and gauge graphs.
-![image](https://user-images.githubusercontent.com/94163197/230497286-cdb4e380-f732-461c-bff4-d655dadf0f63.png)
